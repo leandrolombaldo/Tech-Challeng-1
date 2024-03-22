@@ -20,7 +20,7 @@ document.querySelector('form').addEventListener('submit', function(event) {
   console.log("🚀 ~ document.querySelector ~ data:", data)
 
   // Send the data
-  // sendData('https://fsdt-contact-acf4ab9867a7.herokuapp.com/contact', data);
+  // sendData('URL, data);
 });
 
 
